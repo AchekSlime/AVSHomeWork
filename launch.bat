@@ -1,0 +1,1 @@
+start "" main.exe 1 3 5 7
